@@ -1,8 +1,8 @@
 # Saturday 21 November 2026 — The World in One Day
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261121)
-[![make.fun leaderboard](https://img.shields.io/badge/make.fun-leaderboard-green)](https://make.fun/api/competitions/news-image-20261121/leaderboard)
-[![make.fun kit](https://img.shields.io/badge/make.fun-kit-orange)](https://make.fun/c/news-image-20261121/kit)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/haidildariell/news-image-20261121-v6/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261121/haidildariell/news-image-20261121-v6/reward.svg)](https://make.fun/bounty/news-image-20261121)
 
 One image that sums up the world's news of **Saturday 21 November 2026**:
 36 dated stories across 7 regions — 13 illustrated cards, a world map with
